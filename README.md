@@ -1,4 +1,4 @@
-A CE graduate from KHAS Istanbul and Data Science Master student at UPM in Madrid, currently part time researcher at Ontology Engineering Group.
+A CE graduate from KHAS Istanbul and Data Science Master student at UPM in Madrid, currently part time researcher at Ontology Engineering Group contributing to [EVERSE](https://everse.software/) project.
 My main interests are:
 - AI & Machine Learning models (Especially LLMs and NLP) 🤖
 - Data Processing & Engineering 💾
