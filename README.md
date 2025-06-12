@@ -2,7 +2,7 @@ A CE graduate from KHAS Istanbul and Data Science Master student at UPM in Madri
 My main interests are:
 - AI & Machine Learning models (Especially LLMs and NLP) 🤖
 - Data Processing & Engineering 💾
-- Cybersecurity Applications with AI/ML 🔒
+- Potential Cybersecurity Applications with AI/ML 🔒
 
 <!--
 **Anas-Elhounsri/Anas-Elhounsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
