@@ -12,7 +12,7 @@ Data Processing & Engineering, and Potential security Applications with AI/ML</b
 <br>
 
 <div float="left" align="center">
-    <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbml2Y3dlZWI4OThheTY1bm53a3h3MHU4NWd1ZnAzeWdhdm5yMmhyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HXLNH9Z01TembuEKPi/giphy.gif"width="50%"/>
   <div>
      <kbd>
        <br>
