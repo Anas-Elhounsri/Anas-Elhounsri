@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to my GitHub page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+<h1 align="center"> <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="4%"> Welcome to my GitHub page <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="4%"> </h1>
 <br>
 
 <p align="center"> I am a PhD student in Artificial Intelligence at UPM, graduated bachelors as CE from KHAS Istanbul, and my masters in Data Science Master at UPM in Madrid, currently part time researcher at Ontology Engineering Group contributing to CODEMETASOFT project and actively maitaining SoMEF repository. My main interests are:
